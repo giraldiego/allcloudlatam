@@ -8,19 +8,37 @@ Official Guide : [Associate Cloud Engineer Certification](https://cloud.google.c
 [Spanish Playlist](**[https://www.youtube.com/playlist?list=PLRS9ih_Wnxx5Q79luh5mwoRyUWTCEOQfU](https://www.youtube.com/playlist?list=PLRS9ih_Wnxx5Q79luh5mwoRyUWTCEOQfU)**)
 # Section 1: Setting up a cloud solution environment
 
-## 1.1 Setting up cloud projects and accounts. Activities include:
+## 1.1 Setting up cloud projects and accounts. 
+[# Diagnostic questions](https://www.cloudskillsboost.google/course_sessions/4030186/quizzes/375741)
+
+[Setting up Cymbal Superstore's cloud environment](https://youtu.be/DQLlSv2N1co)
 
 ### Creating a resource hierarchy
+**[Resource hierarchy | Resource Manager Documentation](https://cloud.google.com/resource-manager/docs/cloud-platform-resource-hierarchy)**
 
 ### Applying organizational policies to the resource hierarchy
+**[Introduction to the Organization Policy Service | Resource Manager Documentation | Google Cloud](https://cloud.google.com/resource-manager/docs/organization-policy/overview)**
 
 ### Granting members IAM roles within a project
+**[IAM basic and predefined roles reference | IAM Documentation | Google Cloud](https://cloud.google.com/iam/docs/understanding-roles)**
+**[Understanding allow policies | IAM Documentation | Google Cloud](https://cloud.google.com/iam/docs/policies)**
 
 ### Managing users and groups in Cloud Identity (manually and automated)
+**[Cloud Identity](https://cloud.google.com/identity)**
+**[Sign up for Cloud Identity](https://support.google.com/cloudidentity/answer/7389973)**
+**[Create your Cloud Identity account and first admin user](https://support.google.com/cloudidentity/answer/7390066)**
 
 ### Enabling APIs within projects
+**[Enable and disable APIs - API Console Help](https://support.google.com/googleapi/answer/6158841?hl=en)**
 
 ### Provisioning and setting up products in Google Cloud’s operations suite
+
+[Operations: Cloud Monitoring & Logging | Google Cloud](https://cloud.google.com/products/operations)
+[Cloud Monitoring](https://cloud.google.com/monitoring)
+[Cloud Monitoring overview](https://cloud.google.com/monitoring/docs/monitoring-overview)
+[Cloud Logging](https://cloud.google.com/logging)
+[Cloud Trace](https://cloud.google.com/trace)
+[Operations: Cloud Monitoring & Logging | Google Cloud](https://cloud.google.com/profiler)[Observability in Google Cloud](https://services.google.com/fh/files/misc/observability_in_google_cloud_one_pager.pdf)
 
 ## 1.2 Managing billing configuration. Activities include:
 
